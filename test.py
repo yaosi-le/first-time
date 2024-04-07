@@ -1,2 +1,3 @@
-for(i=0; i<10; i++)
+for(i=0; i<15; i++)
+    print('test')
     print(i)
